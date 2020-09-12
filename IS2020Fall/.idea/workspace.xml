@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a07d885-6555-497d-a1c3-d172746030ba" name="Default Changelist" comment="Task: Another Commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IS2020Fall/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599864887957</updated>
       <workItem from="1599864889175" duration="420000" />
-      <workItem from="1599865341116" duration="5835000" />
+      <workItem from="1599865341116" duration="7429000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Intial Commit">
       <created>1599867200763</created>
@@ -89,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599870711816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task: Another Commit">
+      <created>1599872078178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599872078178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,10 +203,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1599865797065" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599871747647">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599872145288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599871747647" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599872145288" />
     <state x="539" y="263" key="WebDeployment.AddServerDialog.v.1" timestamp="1599864987991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -206,5 +215,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599871889093" />
+    <state x="492" y="258" key="git4idea.ui.GitResetDialog" timestamp="1599872020738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="258" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1599872020738" />
   </component>
 </project>
